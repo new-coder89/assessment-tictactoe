@@ -1,6 +1,6 @@
-#step1: git clone
-#step2: input npm install into terminal
-#step3: input npm start into terminal
+# step1: git clone
+# step2: input npm install into terminal
+# step3: input npm start into terminal
 
 # Getting Started with Create React App
 
