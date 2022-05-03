@@ -1,3 +1,7 @@
+step1: git clone
+step2: input npm install into terminal
+step3: input npm start into terminal
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
